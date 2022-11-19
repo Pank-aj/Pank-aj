@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Pank-aj
 - 👀 I’m interested in web developpment 
 - 🌱 I’m currently learning btech computer science from amrita school of engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Pank-aj/Pank-aj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
